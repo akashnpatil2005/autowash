@@ -102,11 +102,9 @@ Contributions, issues and feature requests are welcome!
 5. Open a Pull Request
 
 
-## 👤 Author
 
-**Your Name**
 - GitHub: [@akashnpatil2005](https://github.com/akashnpatil2005)
-- Email: akashnpatil2005@gmail.com
+
 
 
 ⭐ If you found this project helpful, please give it a star!
