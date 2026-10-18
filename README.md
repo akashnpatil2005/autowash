@@ -56,7 +56,7 @@ Just a modern web browser. No installation or build step required.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/autowash.git
+   git clone https://github.com/akashnpatil2005/autowash.git
    ```
 2. **Open the project folder**
    ```bash
@@ -101,16 +101,12 @@ Contributions, issues and feature requests are welcome!
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [@akashnpatil2005](https://github.com/akashnpatil2005)
+- Email: akashnpatil2005@gmail.com
 
----
 
 ⭐ If you found this project helpful, please give it a star!
